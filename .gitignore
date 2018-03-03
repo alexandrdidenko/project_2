@@ -2,6 +2,14 @@
 .idea
 project_2/settings.py
 
+# mypy
+.mypy_cache/
+project_2/static/web.config
+web.config
+project_2/static/*
+
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
